@@ -3,9 +3,9 @@ import com.dummy.rest.ApiExecutor;
 import org.junit.Test;
 import java.util.logging.Logger;
 
-public class TestGetSingleEmployee {
+public class TestPostmanApi {
 
-    private static final Logger LOGGER = Logger.getLogger(TestGetSingleEmployee.class.getName());
+    private static final Logger LOGGER = Logger.getLogger(TestPostmanApi.class.getName());
     ApiExecutor executor = new ApiExecutor();
     public static String createdUId;
 
